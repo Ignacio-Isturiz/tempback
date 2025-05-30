@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.1.0](https://github.com/Ignacio-Isturiz/tempback/compare/v1.0.0...v1.1.0) (2025-05-30)
+
+
+### Features
+
+* adoption center inLine ([735ac72](https://github.com/Ignacio-Isturiz/tempback/commit/735ac72e1f792bbdbd446bf556d3b6f9555fc886))
+* adoption center inLine ([aa505bc](https://github.com/Ignacio-Isturiz/tempback/commit/aa505bc45f9d3d129c8b0f2b00ad6b53dd9a1dcb))
+
+
+### Bug Fixes
+
+* **build:** start command ok ([66ea7cb](https://github.com/Ignacio-Isturiz/tempback/commit/66ea7cb3caf8139af79eacc77b2a66e67ac2c926))
+* **pets:** delete auth required ([a596f3b](https://github.com/Ignacio-Isturiz/tempback/commit/a596f3beba1440739faafb97b151ad4970481098))
+
 ## 1.0.0 (2025-05-14)
 
 
